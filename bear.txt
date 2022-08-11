@@ -1,2 +1,3 @@
 Bear is a wild animal
 It is carnivorous
+it lives in dens
